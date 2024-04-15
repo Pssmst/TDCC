@@ -7,8 +7,7 @@ My name is Brannon Davidson. I wrote a book about an alternate universe version 
 # BLURB
 
 
-Four friends,
-And a mountain they climb together.
+Four friends and a mountain they climb together.
 Don’t say I didn’t warn you…
 
 

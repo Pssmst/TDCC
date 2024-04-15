@@ -21,7 +21,7 @@ Warning! This book has:
 
 — Offensive (and downright false) examples of the LGBTQ+ and furry community. All content is purely for dramatic effect and is extremely exaggerated, if not completely fabricated.
 
-— Dangerously high concentrations of cringe. If you can’t handle it, then I recom- mend setting the book down and taking a break.
+— Dangerously high concentrations of cringe. If you can’t handle it, then I recommend setting the book down and taking a break.
 
 — A wacky plot in which 80% of it was conceived in the shower and hastily scribbled on a sticky note.
 

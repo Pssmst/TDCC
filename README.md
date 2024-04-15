@@ -11,10 +11,13 @@ Four friends,
 And a mountain they climb together.
 Don’t say I didn’t warn you…
 
+
 “The art isn’t the art. The art is never the art. The art is the thing that happens inside you when you make it, and the feeling in the heart of the beholder.”
 — No Boilerplate, on The Cult of Done Manifesto
 
+
 Warning! This book has:
+
 — Mature content not suited for children, such as offensive language, crude humor, underage consumption of alcohol, themes of grief, suggestive topics, suicidal topics, and ego death.
 
 — Offensive (and downright false) examples of the LGBTQ+ and furry community. All content is purely for dramatic effect and is extremely exaggerated, if not completely fabricated.

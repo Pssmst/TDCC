@@ -1,0 +1,1 @@
+I scrapped every idea lmao

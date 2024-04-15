@@ -1,0 +1,157 @@
+Cringling: 5 Attack | 5 Defense | 50 Max HP
+* This little guy is fiercer than he looks, but don’t let that intimidate you!
+* Beware, these creatures are immune to the cringe debuff!
+
+Small Blast: A small fireball is emitted from the mouth. Does some damage.
+
+-------------------------------------------------------------
+
+Rock 1: 0 Attack | 10 Defense | 25 Max HP
+* It’s literally a rock.
+
+Nothing: No effect.
+
+-------------------------------------------------------------
+
+Big Rock: 10 Attack | 15 Defense | 50 Max HP
+* Rock. Big one.
+
+Slam: Smashes itself into the ground, creating shockwaves.
+Harden: Increases defense by 10.
+
+-------------------------------------------------------------
+
+Rock 2: 3 Attack | 10 Defense | 25 Max HP
+* This one is strangely alive.
+
+Lesser Slam: Smashes itself into the ground, but its size reduces the effects.
+
+-------------------------------------------------------------
+
+Dreamer: 25 Attack | 40 Defense | 100 Max HP
+* It kinda looks like it’s made of jello…
+* Its defense is in the shield! Find a way to weaken it!
+
+Spikes: Shoots spikes in all directions.
+Tail Whip: Extends its tail and whips it towards their enemy.
+Kamikaze: Final defense mechanism. Does a devastating amount of damage.
+
+-------------------------------------------------------------
+
+Cringe: 50 Attack | 75 Defense | 143 Max HP
+* The incarnate of cringe itself. All attacks inflict Cringe.
+* More than immune to the cringe debuff.
+
+Large Blast: Shoots a large fireball. The aura surrounding it is intoxicating.
+Hyperdash: Dashes diagonally towards the ground. High damage.
+Memory: Extracts a painful memory.
+Indigo Death: Ima firin’ mah lazer! Fatal amount of damage.
+Splatter: Tosses globs of purple liquid. It burns like acid.
+
+-------------------------------------------------------------
+
+Dust Bunny: 35 Attack | 30 Defense | 120 Max HP
+* This cute little guy can reduce you to bones. Probably shouldn't let that happen.
+
+Sludge: Creates more of itself and hurls it at the opponent.
+Pout: Sparkles its eyes and gives a sad whimper.
+
+-------------------------------------------------------------
+
+Oshiro: 75 Attack | –1 Defense | ERROR Max HP
+* The Celestial Resort's last remaining staff member. Attacks anything he sees.
+
+Charge Attack: Charges towards the opponent. Not to be confused with Destin’s “charge” mechanic.
+Chomp: Throws the opponent into their mouth and spits them out.
+Sludge: Creates Dust Bunnies. It’s the same attack as before.
+
+-------------------------------------------------------------
+
+Wind Elemental: 40 Attack | 60 Defense | 150 Max HP
+* Sentient air? Not exactly sure what to say about this one.
+
+Whirl: Rotates quickly and tosses chunks of dandruff-like substance.
+Heal: Increases HP by 20.
+Expand: Increases size, AT by 10, and DF by 10.
+
+-------------------------------------------------------------
+
+Hand 1: 20 Attack | 20 Defense | 50 Max HP
+* A floating hand. It’s got fingers, too.
+
+Grab: Lurches at an opponent and pulls them from the party.
+Punch: Slugs the opponent in the face.
+Crush: Only works with a party member in-hand. It squeezes them.
+
+-------------------------------------------------------------
+
+Hand 2: 20 Attack | 20 Defense | 50 Max HP
+* Literally the same thing as Hand 1.
+* …Actually, it’s slightly bigger if you compare the two.
+
+Same attacks as Hand 1.
+
+-------------------------------------------------------------
+
+Scopoclaustria: 80 Attack | 80 Defense | 200 Max HP
+* An unholy amalgamation of Destin and Garrett’s greatest fears and anxieties. The walls watch as they close in. It's the end of the line.
+
+Chase: The monster hurls itself after one of its opponents.
+Swivel: The monster rotates around itself, turning both parts into a swivel shot. Those unfortunate enough to be caught in the danger will suffer a devastating amount of damage.
+
+-------------------------------------------------------------
+
+Claustromitus: 40 Attack | 40 Defense | 100 Max HP
+“Klaw-stroa-mih-tuhs”
+* The mouth of Scopoclaustria. Severed, now bloodthirsty for Destin.
+
+Pursue: Chains multiple dashes together to try and eat the opponent.
+Flameburst: Spews fire from its mouth. Somehow. Deals fire damage.
+Greater Slam: Tosses its massive body into the ground. Sends a massive shockwave out.
+
+-------------------------------------------------------------
+
+Scopobition: 40 Attack | 40 Defense | 100 Max HP
+“Scoa-poa-bih-tion"
+* The oculus of Scopoclaustira. Severed, now seeking Garrett.
+
+Barrage: Sends a wave of lasers towards Garrett.
+Clandestine: Same thing as Stealth Cloak.
+Heal: Shoots a red last-prism laser outwards. It tracks onto Garrett.
+
+-------------------------------------------------------------
+
+Patrick: 80 Attack | -1 Defense | ERROR Max HP
+Once killed in an accident, now brought back to life through the magic of Celeste Mountain. This old friend's surely worked himself to the bone.
+
+Attacks N/A
+
+-------------------------------------------------------------
+
+Fluffy Rex: 100 Attack | 100 Defense | 300 Max HP
+* Welp, there goes our chance.
+* A creation bound from white latex and dandruff. He’s still in there somewhere.
+
+Fluffy Dandruff: 200% damage of Dandruff Storm.
+Detain: Traps someone in Atheon’s detain bubble.
+Tail Spin: Spins around his big fluffy tail and covers the dogs in acidic latex.
+Latex Healing Potion: Always inflicts someone with the LATEX debuff.
+Item: Heals from one of the items in his inventory.
+
+-------------------------------------------------------------
+
+Lust: 143 Attack | 152 Defense | 999 Max HP
+* There is a monster in every person, and each beast has the will to devour. What stands before you is that very beast, given form. Being both male and female, this monster feasts on the desires of the world, tricking anyone who cares to listen to their temptations. They are the ultimate demon. They are lust incarnate.
+
+1. Single-target
+Pink Death: A beam of fuschia energy that deals a crap-ton of damage.
+Euphoric Edge: Slices a party member, siphoning a portion of their life and replenishing Lust's health by that amount x2.
+
+2. Double-target
+Shadow Dance: Lust splits into two, attacking two different party members for a medium amount. One shadow lowers 5% defense (SHADOWED [DEF]) and the other lowers 5% attack (SHADOWED [ATT]) for 3 turns
+
+3. ALL-target / Special
+Ultraviolet: Sends a bolt of lightning out, attacking everyone for a considerable amount of damage
+Purple Rain: Inflicts everyone with the CRINGE debuff
+
+FINAL DEATH: Lust's final attack; a last prism that kills everyone. The only thing that can block it is the DOG BEAM!

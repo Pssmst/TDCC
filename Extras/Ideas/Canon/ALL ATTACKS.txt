@@ -1,0 +1,175 @@
+ATTACKS ============================================================================================================
+
+LANDON ---------------------------------------- INFLICT
+
+1a. Lester Healing Potion: A potion that will either heal or damage 20 HP from any target in the battle. The chance of healing is relative to the Energy Bar.
+
+2a. Deadlock: Inflicts *Deadlocked* on an enemy, which gives them a 33% chance to miss their next attack. Each use of Deadlock halves the chance until another attack is used.
+
+3a. Dandruff Storm: Does a large amount of damage to every enemy on the battlefield. Once Landon masters his dandruff after defeating Atheon, the attack inflicts the *Dandruffed* debuff.
+Tier 0 (0% Energy): Does nothing
+Tier 1 (Costs 33% Energy): Inflicts *Dandruffed* tier 1 - Enemy attack lowered by 5% - Strikes 1 enemy - Lasts 2 turns
+Tier 2 (Costs 67% Energy): Inflicts *Dandruffed* tier 2 - Enemy attack lowered by 15% - Strikes 2 enemies - Lasts 3 turns
+Tier 3 (Costs 100% Energy): Inflicts *Dandruffed* tier 3 - Enemy attack lowered by 30% - Strikes 3 enemies - Lasts 3 turns
+
+2b. Stasis: Creates a large wind forcefield around the arena, dropping the Wind Elemental's defense to 0 for 1 turn. (ELEMENTAL EXCLUSIVE)
+
+3b. Control: Affects the hands of the Wind Elemental in 3 tiers. (ELEMENTAL EXCLUSIVE)
+Tier 0 (0% Energy): Does nothing
+Tier 1 (Costs 33% Energy): Deals small damage
+Tier 2 (Costs 67% Energy): Deals medium damage - Forces hand to drop party member
+Tier 3 (Costs 100% Energy): Deals large damage to both hands - Forces them to drop all party members
+
+1c. Greater Lester Healing Potion: The same as the Lester Healing Potion, but the damage and healing value is 60 HP.
+
+2c. Detain: Traps someone in Atheon's detain bubble; enemy has 50% chance to miss their next attack. Costs 66% Energy.
+
+3c. Fluffy Dandruff: Dandruff Storm but 3x damage.
+
+
+DESTIN ---------------------------------------- SPELL
+
+1a. Rage Spell (Cost 1): Inflicts the *Berzerk* debuff, making enemies have a 50% chance to attack other enemies. The attack deals 20% of an enemy's HP. If there are no other enemies, they attack themselves. The effect lasts for a single turn.
+
+2a. Dome Shield (Cost 2): Casts a shield around a party member, giving 100% damage reduction for 1 turn and healing them +20 HP.
+
+3a. Double Tap (Cost 3): Launches a ball towards an enemy, dealing a large amount of damage. It has a 50% chance to bounce back, letting you target another enemy or the same one, then a 25% chance to repeat, 12.5%, and so forth...
+
+1b. Curse of Fury: Deals an large amount of damage and inflicts the *Manic* debuff, which is just *Berzerk* but the random attack chance is 100% -- +25% damage towards other enemies.
+
+2b. Healing Circle: Casts a circular spell around TWO party members, giving 100% damage reduction for 1 turn and healing both of them fully.
+
+3b. Supersonic Combo: The same as Double Tap, but the chances are only decreased by 2/3 (100%, 67%, 33%...). Additionally, damage is increased by +25%.
+
+- CHARGE: Increments Destin's Mana Points by 1.
+
+
+BRANNON --------------------------------------- ACTION
+
+1a. Dash: A simple attack that does a normal amount of damage.
+
+2a. Bad Joke: Does a small amount of damage but inflicts *Cringe*, a debuff that lowers all stats a little bit.
+
+3a. Ramble: Does a small amount of damage but inflicts *Bored*, a debuff that lowers defense by 8%.
+
+1b. Hyperdash: A dash that does a massive amount of damage.
+* During the Cringe fight and on, Dash is converted into Hyperdash when Brannon's Adrenaline reaches 100%. All Adrenaline is drained in the process.
+** After Reflection, Hyperdash becomes permanent and Adrenaline only further buffs damage.
+
+2b. Remember: The effects depend on the fight.
+
+3b. Keep Talking: Disables all other actions and progresses the story. It's like the "Save" option from the Asriel fight in Undertale.
+
+
+GARRETT --------------------------------------- ATTACK
+
+1a. Stealth Cloak: Grants a 50% chance to not take damage towards an enemy and increases Stealth by 16.7% (1/6). When using Stealth Cloak on the same enemy, Garrett will instead deal a medium amount of damage with the usual benefits of Stealth Cloak -- Although, the chance to not take damage drops to 25%. The Stealth Cloak will then reset.
+
+2a. Nunchucks: Deals a regular amount of damage to an enemy.
+
+3a. Blue Crown: Compares Garrett's attack to the targeted enemy's defense and turns it into a ratio. An absolute value will then be calculated between the ratio and every multiple of 0.25 from 0. The damage output will be the multiple (of 0.25) the ratio is closest to, multiplied by 100. This damage is FLAT.
+- Only usable if at 100% Stealth -- all Stealth is drained in the process.
+* Example: Garrett's attack is 48 and the enemy's defense is 94. 48:94 = 0.51, which is closest to the multiple 0.5, and that multiplied by 100 = 50. The Blue Crown will deal 50 damage.
+
+1b. Advanced Cloak: Is the same as Stealth Cloak but shoots homing shurikens out with each attack. Phase 1 now damages due to the shurikens and phase 2 gains a damage buff.
+
+2b. Katana Slash: Deals a considerably large amount of damage and inflicts *Bleeding*, which slowly drains an enemy's health over 5 turns.
+
+3b. Getriss' Wrath: Only usable if at 100% Stealth -- Does an ungodly amount of damage towards one singular enemy. All Stealth is drained in the process.
+
+
+PATRICK --------------------------------------- MAGIC 𝚿 / HEX 𝛀
+
+𝚿 TRIGGER: Used to initiate a MODE ACTIVATION without any of those stupid special conditions that need to be fulfilled.
+- Only avaliable if Patrick has reached 100% Sun and 100 DM; drains everything upon use.
+
+1𝚿. Paint Gun: 50/50 chance to either inflict the Painted debuff or a random debuff from the pool below. Costs 50% Sun.
+- Dandruffed (All 3 tiers), Deadlocked, Berzerk, Cringe, Disgust, Bored, Bleeding
+
+2𝚿. Peashooter: Depending on the amount of Sun Patrick has, a different type of peashooter will appear and attack at the end of each turn. Each one will only attack for 3 turns
+- 25% Sun: Peashooter - 5 damage (Targeted I)
+- 50% Sun: Repeater - 10 damage (Targeted II)
+- 75% Sun: Threepeater - 15 damage (Targeted III)
+- 100% Sun: Gatling Pea - 20 damage (Targeted IV)
+
+3𝚿. Heal Beam: Heals whoever Patrick chooses by the exact amount of Sun he has.
+* Example: Patrick heals DESTIN for 75 HP! (-75% Sun)
+
+𝛀 SIPHON: Increments Patrick's DM by 20 but must steal either a 'point' of Energy, Mana, Adrenaline, or Stealth. It's in the same place as Destin's CHARGE
+* Example: Patrick siphons from BRANNON! -33% Adrenaline / +20 DM
+
+1𝛀. Oblivio (40% DM): Covers the enemy in complete darkness, lowering their attack by 75% for a single turn.
+
+2𝛀. Animascry (70% DM): Patrick gazes into the soul of his enemy and insults them so bad it permanently lowers their defense by 25%.
+
+3𝛀. Malefae (100% DM): Inflicts a permanent curse that withers an enemy's max health to 1/3% of its original value
+
+
+EFFECTS ============================================================================================================
+
+Deadlocked: 50% chance to miss next attack - lasts 1 turn
+
+Dandruffed Tier 1: Attack lowered by 5% - lasts 2 turns
+Dandruffed Tier 2: Attack lowered by 15% - lasts 3 turns
+Dandruffed Tier 3: Attack lowered by 30% - lasts 3 turns
+
+Targeted I - 5 damage for 3 turns
+Targeted II - 10 damage for 3 turns
+Targeted III - 15 damage for 3 turns
+Targeted IV - 25 damage for 3 turns
+
+Berserk: Enemies have a 50% chance to attack other enemies. The attack deals 20% of an enemy's HP. If there are no other enemies, they attack themselves. Lasts 1 turn.
+Manic: Same as Berzerk but the random ally attack chance is 50% with +25% damage +++ they deal exactly +50% damage to the other party - lasts 3 turns
+
+Cringe: HP = 95%, ATT = 90%, DEF = 90%
+Disgust: HP = 90%, ATT = 80%, DEF = 80%
+
+Bored: Defense lowered by 8% - lasts 2 turns
+
+Bleeding: Slowly drains health - lasts 3 turns
+
+Painted: Lowers defense and does damage
+
+Hatred: Attack doubles
+
+Lust: Defense halves
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
